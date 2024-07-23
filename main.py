@@ -1,6 +1,5 @@
 import pyqrcode
 import tkinter as tk
-from ttkthemes import ThemedTk
 import os
 
 
